@@ -1,0 +1,14 @@
+D:\csharp\Murik\Murik\bin\Debug\net8.0\Murik.exe
+D:\csharp\Murik\Murik\bin\Debug\net8.0\Murik.deps.json
+D:\csharp\Murik\Murik\bin\Debug\net8.0\Murik.runtimeconfig.json
+D:\csharp\Murik\Murik\bin\Debug\net8.0\Murik.dll
+D:\csharp\Murik\Murik\bin\Debug\net8.0\Murik.pdb
+D:\csharp\Murik\Murik\obj\Debug\net8.0\Murik.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Murik\Murik\obj\Debug\net8.0\Murik.AssemblyInfoInputs.cache
+D:\csharp\Murik\Murik\obj\Debug\net8.0\Murik.AssemblyInfo.cs
+D:\csharp\Murik\Murik\obj\Debug\net8.0\Murik.csproj.CoreCompileInputs.cache
+D:\csharp\Murik\Murik\obj\Debug\net8.0\Murik.dll
+D:\csharp\Murik\Murik\obj\Debug\net8.0\refint\Murik.dll
+D:\csharp\Murik\Murik\obj\Debug\net8.0\Murik.pdb
+D:\csharp\Murik\Murik\obj\Debug\net8.0\Murik.genruntimeconfig.cache
+D:\csharp\Murik\Murik\obj\Debug\net8.0\ref\Murik.dll
